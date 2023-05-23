@@ -1,6 +1,6 @@
 Gajanan Mukesh BODHANKAR
 
- <a href="#" target="_blank" rel="noreferrer">View my Resume 📝</a>
+ <a href="https://docs.google.com/document/d/1-UqxB989PGm-t5yIGaaaouWEDoda_hAs/edit?usp=sharing&ouid=117039353853292357625&rtpof=true&sd=true" target="_blank" rel="noreferrer">View my Resume 📝</a>
  
 <h1 align="center">Hi 👋, I'm Gajanan</h1>
 
