@@ -4,7 +4,7 @@
 <img align="right" width="300" src="https://wallpapercave.com/wp/wp4923981.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajananbodhankar&label=Profile%20views&color=0e75b6&style=flat" alt="gajananbodhankar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@gajananbodhank4" target="blank"><img src="https://img.shields.io/twitter/follow/@gajananbodhank4?logo=twitter&style=for-the-badge" alt="@gajananbodhank4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@gajananbodhank4" target="_blank"><img src="https://img.shields.io/twitter/follow/@gajananbodhank4?logo=twitter&style=for-the-badge" alt="@gajananbodhank4" /></a> </p>
 
 - 🔭 I’m currently working on **React native**
 
