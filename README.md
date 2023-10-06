@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@gajananbodhank4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gajananbodhank4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gajanan-bodhankar-30aa2622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajanan bodhankar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bodhankargajana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bodhankargajana1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bodhankargajanan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bodhankargajanan99" height="30" width="40" /></a>
+<a href="https://twitter.com/@gajananbodhank4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gajananbodhank4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gajanan-bodhankar-30aa2622a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajanan bodhankar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bodhankargajana1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bodhankargajana1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bodhankargajanan99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bodhankargajanan99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
