@@ -19,7 +19,14 @@
 - ⚡ Fun fact **I'm a polyglot, including English, Telugu, Hindi and Marathi.**
 
 <h3 align="left">Projects :</h3>
-<a align="left" href="https://text-utils-react-js-git-main-gajananbodhankar.vercel.app/">Text Utils</a>
+<ul>
+<li>
+<a align="left" href="https://text-utils-react-js-git-main-gajananbodhankar.vercel.app/" target="_blank">Text Utils</a></li>
+<li>
+<a align="left" href="https://material-ui-reactjs.vercel.app/" target="_blank">To-Do list with MongoDB-React-Express</a>
+</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gajananbodhank4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gajananbodhank4" height="30" width="40" /></a>
