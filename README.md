@@ -25,6 +25,9 @@
 <li>
 <a align="left" href="https://material-ui-reactjs.vercel.app/" target="_blank">To-Do list with MongoDB-React-Express</a>
 </li>
+<li>
+  <a align="left" href="https://gajanan-qtrip.netlify.app/" target="_blank">Qtrip-static</a>
+</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
