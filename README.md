@@ -1,6 +1,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="welcome"/>
 <h1 align="center">Hi 👋, I'm Gajanan Bodhankar</h1>
-<h3 align="center">A passionate react developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" width="300" src="https://wallpapercave.com/wp/wp4923981.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajananbodhankar&label=Profile%20views&color=0e75b6&style=flat" alt="gajananbodhankar" /> </p>
 
