@@ -28,6 +28,9 @@
 <li>
   <a align="left" href="https://gajanan-qtrip.netlify.app/" target="_blank">Qtrip-static</a>
 </li>
+  <li>
+    <a align="left" href="https://to-do-list-local-storage-vanilla-js.vercel.app/" target="_blank">ToDo List(LocalStorage Vanilla JS)</a>
+  </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
