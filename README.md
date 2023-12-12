@@ -31,6 +31,9 @@
   <li>
     <a align="left" href="https://to-do-list-local-storage-vanilla-js.vercel.app/" target="_blank">ToDo List(LocalStorage Vanilla JS)</a>
   </li>
+  <li>
+    <a href="https://dynamicqtrip-ohmd5weck-gajananbodhankar.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
+  </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
