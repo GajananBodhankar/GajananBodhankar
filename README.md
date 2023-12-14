@@ -21,7 +21,7 @@
 <h3 align="left">Projects :</h3>
 <ul>
 <li>
-<a align="left" href="https://text-utils-react-js-git-main-gajananbodhankar.vercel.app/" target="_blank">Text Utils</a></li>
+<a align="left" href="https://text-utils-react-js-git-main-gajananbodhankar.vercel.app/" target="_blank" color="red">Text Utils</a></li>
 <li>
 <a align="left" href="https://material-ui-reactjs.vercel.app/" target="_blank">To-Do list with MongoDB-React-Express</a>
 </li>
@@ -35,6 +35,7 @@
     <a href="https://qtrip-dynamic-one-chi.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
   </li>
 </ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
