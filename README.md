@@ -34,7 +34,7 @@
     <a align="left" href="https://to-do-list-local-storage-vanilla-js.vercel.app/" target="_blank">ToDo List(LocalStorage Vanilla JS)</a>
   </li>
   <li>
-    <a href="https://qtrip-dynamic-one-chi.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
+    <a href="https://qtrip-dynamic-9ttiah5wz-gajananbodhankar.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
   </li>
 </ul>
 
