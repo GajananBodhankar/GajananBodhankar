@@ -37,7 +37,7 @@
     <a href="https://qtrip-dynamic-9ttiah5wz-gajananbodhankar.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
   </li>
   <li>
-    <a href="https://news-4kz0z8c4t-gajananbodhankar.vercel.app/" align="left" target="_blank">News-app</a>
+    <a href="https://news-app-git-main-gajananbodhankar.vercel.app/" align="left" target="_blank">News-app</a>
   </li>
 </ul>
 
