@@ -39,6 +39,9 @@
   <li>
     <a href="https://news-app-git-main-gajananbodhankar.vercel.app/" align="left" target="_blank">News-app</a>
   </li>
+  <li>
+    <a href="https://soft-kangaroo-c3d12b.netlify.app/">Github-profile-search</a>
+  </li>
 </ul>
 
 
