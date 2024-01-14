@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm a polyglot, including English, Telugu, Hindi and Marathi.**
 - 🧧 [My portfolio](https://gajananbodhankar.github.io/MyPortfolio/)
-  
+- Do check out my npm package for embedded sim react-native [here](https://www.npmjs.com/package/react-native-esim-validate)
 
 <h3 align="left">Projects :</h3>
 <ul>
