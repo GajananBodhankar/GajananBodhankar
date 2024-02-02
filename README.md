@@ -42,6 +42,9 @@
   <li>
     <a href="https://soft-kangaroo-c3d12b.netlify.app/">Github-profile-search</a>
   </li>
+  <li>
+    <a href="https://65bcabc58c9b565b766c4aa7--gajanantwitterclone.netlify.app/">Twitter Clone</a>
+  </li>
 </ul>
 
 
