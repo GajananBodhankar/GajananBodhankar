@@ -45,6 +45,9 @@
   <li>
     <a href="https://65bcabc58c9b565b766c4aa7--gajanantwitterclone.netlify.app/">Twitter Clone</a>
   </li>
+  <li>
+    <a href="https://bodhankargajanan99-me-qkart-frontend-v2.vercel.app/">Qkart_Shopping</a>
+  </li>
 </ul>
 
 
