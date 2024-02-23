@@ -31,10 +31,10 @@
   <a align="left" href="https://gajanan-qtrip.netlify.app/" target="_blank">Qtrip-static</a>
 </li>
   <li>
-    <a align="left" href="https://to-do-list-local-storage-vanilla-js.vercel.app/" target="_blank">ToDo List(LocalStorage Vanilla JS)</a>
+    <a href="https://qtrip-dynamic-frontend.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
   </li>
   <li>
-    <a href="https://qtrip-dynamic-frontend.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
+    <a align="left" href="https://to-do-list-local-storage-vanilla-js.vercel.app/" target="_blank">ToDo List(LocalStorage Vanilla JS)</a>
   </li>
   <li>
     <a href="https://news-app-git-main-gajananbodhankar.vercel.app/" align="left" target="_blank">News-app</a>
