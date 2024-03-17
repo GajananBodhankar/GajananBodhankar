@@ -25,7 +25,7 @@
 <li>
 <a align="left" href="https://text-utils-react-js-git-main-gajananbodhankar.vercel.app/" target="_blank" color="red">Text Utils</a></li>
 <li>
-<a align="left" href="https://material-ui-reactjs.vercel.app/" target="_blank">To-Do list with MongoDB-React-Express</a>
+<a align="left" href="https://blogbreeze-frontend.vercel.app/" target="_blank">Blogbreeze with MongoDB-React-Express</a>
 </li>
 <li>
   <a align="left" href="https://gajanan-qtrip.netlify.app/" target="_blank">Qtrip-static</a>
