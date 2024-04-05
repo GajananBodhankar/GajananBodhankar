@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gajananbodhank4" target="_blank"><img src="https://img.shields.io/twitter/follow/@gajananbodhank4?logo=twitter&style=for-the-badge" alt="@gajananbodhank4" /></a> </p>
 
-- 🔭 I’m currently working on **React native**
+- 🔭 I’m currently working on **ReactJS**
 
 - 🌱 I’m currently learning **NextJS**
 
