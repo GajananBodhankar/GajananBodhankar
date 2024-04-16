@@ -48,6 +48,9 @@
   <li>
     <a href="https://bodhankargajanan99-me-qkart-frontend-v2.vercel.app/">Qkart_Shopping</a>
   </li>
+  <li>
+    <a href="https://gajanansspotify.freewebhostmost.com./">Spotify Clone</a>
+  </li>
 </ul>
 
 
