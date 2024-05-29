@@ -52,6 +52,9 @@
   <li>
     <a href="https://gajanansspotify.freewebhostmost.com./">Spotify Clone</a>
   </li>
+  <li>
+    <a href="https://crio-expense-assignment.vercel.app/">Expense tracker with local storage</a>
+  </li>
 </ul>
 
 
