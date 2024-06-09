@@ -29,7 +29,7 @@
 <a align="left" href="https://blogbreeze-frontend.vercel.app/" target="_blank">Blogbreeze with MongoDB-React-Express</a>
 </li>
 <li>
-  <a align="left" href="https://gajanan-qtrip.netlify.app/" target="_blank">Qtrip-static</a>
+  <a align="left" href="https://qtrip-static-kappa-flame.vercel.app/" target="_blank">Qtrip-static</a>
 </li>
   <li>
     <a href="https://qtrip-dynamic-frontend.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
