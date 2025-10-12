@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bodhankargajanan99@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1va8pKJmJbV70FZ8nWA_AO4H42wNMd0tW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iNSo6QJkRDDDh4rZ1Jyylj_vnd9VVrwM/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a polyglot, including English, Telugu, Hindi and Marathi.**
 - 🧧 [gajanan.online](https://iam-gajanan.vercel.app/)
