@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iNSo6QJkRDDDh4rZ1Jyylj_vnd9VVrwM/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a polyglot, including English, Telugu, Hindi and Marathi.**
-- 🧧 [gajanan.online](https://iam-gajanan.vercel.app/)
+- 🧧 [gajanan.online](https://gajanan.online)
 - Do check out my npm package for embedded sim react-native [here](https://www.npmjs.com/package/react-native-esim-validate)
 
 <h3 align="left">Projects :</h3>
