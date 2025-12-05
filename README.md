@@ -15,10 +15,10 @@
 
 - 📫 How to reach me **bodhankargajanan99@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1185J252Lgze59uhOnvDVELdtvrLNUy6g/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11udcqBaBY0tFgGi5tgMw1MEoqY0z1s_5/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a polyglot, including English, Telugu, Hindi and Marathi.**
-- 🧧 [gajanan.online](https://gajanan.online)
+- 🧧 [gajanan.website](https://gajanan.website)
 - Do check out my npm package for embedded sim react-native [here](https://www.npmjs.com/package/react-native-esim-validate)
 
 <h3 align="left">Projects :</h3>
