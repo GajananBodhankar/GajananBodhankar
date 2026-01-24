@@ -1,62 +1,92 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Jarvis+you+up+%3F" alt="Typing SVG" /></a></br>
-<img align="center" src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/953b9972-5e38-4548-b402-50889ec77019.gif" width="500" alt="welcome"/></br>
+<img width="1536" height="600" alt="image" src="https://github.com/user-attachments/assets/a0dd88a0-5b62-451f-8d1a-cef33a3f9623" />
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+%F0%9F%91%8B+I+am+Gajanan+Bodhankar" alt="Typing SVG" /></a></br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A4FF&random=false&width=435&lines=A+Passionate+MERN+stack+developer+;from+INDIA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A4FF&random=false&width=435&lines=A+Senior+Software+developer+from+INDIA" alt="Typing SVG" /></a>
 <img align="right" width="300" src="https://wallpapercave.com/wp/wp4923981.jpg"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajananbodhankar&label=Profile%20views&color=0e75b6&style=flat" alt="gajananbodhankar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@gajananbodhank4" target="_blank"><img src="https://img.shields.io/twitter/follow/@gajananbodhank4?logo=twitter&style=for-the-badge" alt="@gajananbodhank4" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **ReactJS**
+I’m a **Senior Software Development Engineer** specializing in **mobile + full-stack development**, building scalable and high-performance applications using **React Native, Expo, React.js**, and backend services using **Java, Spring Boot, and Microservices**.
 
-- 🌱 I’m currently learning **NextJS**
+I enjoy improving app performance and UX through **memoization, debouncing, optimized lists (FlashList)**, and clean architecture. I’ve worked on enterprise-grade products like **OnCall Dispatch** and **OnCall Mobile**, delivering responsive UI from Figma designs and implementing reliable APIs with efficient database operations.
 
+---
 - 💬 Ask me about **react, JavaScript**
-
 - 📫 How to reach me **bodhankargajanan99@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11udcqBaBY0tFgGi5tgMw1MEoqY0z1s_5/view?usp=sharing)
-
 - ⚡ Fun fact **I'm a polyglot, including English, Telugu, Hindi and Marathi.**
 - 🧧 [gajanan.website](https://www.gajanan.website/)
-- Do check out my npm package for embedded sim react-native [here](https://www.npmjs.com/package/react-native-esim-validate)
 
-<h3 align="left">Projects :</h3>
-<ul>
-<li>
-<a align="left" href="https://text-utils-react-js-git-main-gajananbodhankar.vercel.app/" target="_blank" color="red">Text Utils</a></li>
-<li>
-<a align="left" href="https://blogbreeze-frontend.vercel.app/" target="_blank">Blogbreeze with MongoDB-React-Express</a>
-</li>
-<li>
-  <a align="left" href="https://qtrip-static-kappa-flame.vercel.app/" target="_blank">Qtrip-static</a>
-</li>
-  <li>
-    <a href="https://qtrip-dynamic-frontend.vercel.app/" align="left" target="_blank">Qtrip_Dynamic</a>
-  </li>
-  <li>
-    <a align="left" href="https://to-do-list-local-storage-vanilla-js.vercel.app/" target="_blank">ToDo List(LocalStorage Vanilla JS)</a>
-  </li>
-  <li>
-    <a href="https://news-app-git-main-gajananbodhankar.vercel.app/" align="left" target="_blank">News-app</a>
-  </li>
-  <li>
-    <a href="https://soft-kangaroo-c3d12b.netlify.app/">Github-profile-search</a>
-  </li>
-  <li>
-    <a href="https://gajananbodhankar.github.io/TailwindCSS/">Twitter Clone</a>
-  </li>
-  <li>
-    <a href="https://bodhankargajanan99-me-qkart-frontend-v2.vercel.app/">Qkart_Shopping</a>
-  </li>
-  <li>
-    <a href="https://gajanansspotify.freewebhostmost.com./">Spotify Clone</a>
-  </li>
-  <li>
-    <a href="https://crio-expense-assignment.vercel.app/">Expense tracker with local storage</a>
-  </li>
-</ul>
 
+
+## 🧩 Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 📱 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🧠 Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### **Senior Software Development Engineer | iOS | Android**
+**Hexagon Capability Center India — Hyderabad, IN** *(May 2024 – Present)*
+- Built responsive UI for **OnCall Dispatch (React.js)** and **OnCall Mobile (React Native)** from Figma designs  
+- Improved performance using **memoization, debouncing**, and **FlashList + flashlight monitoring**
+- Developed backend services using **Java, Spring Boot, Microservices**, and REST APIs
+
+### **Associate Software Engineer | iOS | Android**
+**MOURI Tech — Hyderabad, IN** *(Jul 2022 – Aug 2023)*
+- Improved onboarding app performance, built reusable UI components and Axios interceptors
+- Worked on patient app stability & UI/UX flows
+- Built an e-commerce RN app with **Google Sign-In, Maps, Razorpay**
+- Created Node.js backend using **MongoDB Atlas**, JWT auth, bcrypt, JOI validation
+
+---
+
+## 🏗️ Projects
+
+### ✅ Zcrum (Full-stack Agile Project Management)
+- Built with **Next.js, Tailwind, Prisma**
+- Google Sign-In, org/team management, sprint planning, issue tracking  
+- Uses **PostgreSQL (NeonDB)** for cloud-native data + real-time collaboration
+
+### 🎵 Gibble (Teacher–Student Learning Platform)
+- Built using **React Native** with secure Google Sign-In
+- Teacher workflows: tasks, classes, material uploads, progress tracking
+- Led/managed a **Spring Boot backend team** for scalable data handling
+
+---
+
+## ✍️ Writing & Achievements
+- Sharing technical content on **React, JavaScript, modern web development**
+- 🏆 *Pat On the Back* award for customer satisfaction (Hexagon)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,8 +96,6 @@
 <a href="https://www.leetcode.com/bodhankargajanan99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bodhankargajanan99" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GajananBodhankar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GajananBodhankar&theme=tokyonight&hide_border=false)<br/>
