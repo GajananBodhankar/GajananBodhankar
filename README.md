@@ -1,4 +1,7 @@
-<img width="1536" height="600" alt="image" src="https://github.com/user-attachments/assets/a0dd88a0-5b62-451f-8d1a-cef33a3f9623" />
+
+
+<img width="1536" height="604" alt="image" src="https://github.com/user-attachments/assets/01f6345f-9e9d-4713-bbe2-7350f0c9df3b" />
+
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+%F0%9F%91%8B+I+am+Gajanan+Bodhankar" alt="Typing SVG" /></a></br>
